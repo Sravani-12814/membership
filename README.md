@@ -1,118 +1,86 @@
-# The Authors Guild – Membership Website
+# ✍️ Authors Guild — Membership Website
 
-A responsive and modern membership website developed using HTML, CSS, and JavaScript.  
-The website provides information about membership plans, services, community, resources, events, and news & advocacy.
-
-## 📌 Project Overview
-
-This project is a front-end website inspired by an Authors Guild membership platform.
-
-The website is designed to help writers and authors explore different membership options and access useful services and resources.
+A modern and elegant **Authors Guild Membership** webpage designed for writers and authors. The project presents a professional membership experience with information about the organization, membership benefits, author support, resources, and community. It features a clean editorial-style design with responsive layouts, modern typography, and a professional color palette.
 
 ## ✨ Features
 
-- Responsive web design
-- Clean and modern user interface
-- Smooth navigation between sections
-- Membership plans
-- Different membership categories
-- Services section
-- Community section
-- Resources section
-- Events section
-- News & Advocacy section
-- Gift Membership section
-- Hover effects and animations
-- Mobile-friendly layout
+* 📖 Modern Authors Guild membership landing page
+* ✍️ Writer-focused membership content
+* 🏛️ Professional organization-style design
+* 🎨 Elegant editorial UI with modern typography
+* 🔗 Navigation sections for Membership, Services, Community, Resources, Events, and News
+* 🤝 Membership benefits and author support sections
+* 💚 Responsive and clean layout
+* ✨ Interactive hover effects
+* 🔐 Login, Join Now, and Donate interface elements
+* 📱 Mobile-friendly responsive design
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+* **HTML5** – Structure and content
+* **CSS3** – Styling, layout, responsiveness, and animations
+* **Google Fonts** – DM Sans and Playfair Display
+* **Unsplash** – Image resources
 
 ## 📂 Project Structure
 
 ```text
-Authors-Guild-Website/
+Authors-Guild/
 │
 ├── index.html
 ├── style.css
+├── .vscode/
+│   └── settings.json
 └── README.md
-👥 Membership Categories
+```
 
-The website includes the following membership categories:
+## 🚀 How to Run
 
-Regular Membership
-Associate Membership
-At-Large Membership
-Emerging Writer Membership
-Student Membership
+1. Clone this repository:
 
-Each membership card has its own background and border styling to make the categories visually different.
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
 
-🎨 Design
+2. Open the project folder.
 
-The website uses a professional color scheme including:
+3. Open `index.html` in your browser.
 
-Green
-Cream
-Orange
-Yellow
-Blue
-Purple
+### Using VS Code
 
-The membership cards use different background and border colors for better visual separation.
+You can also open the project in **Visual Studio Code** and run it using the **Live Server** extension.
 
-🔗 Website Sections
+The project is configured to use port `5501`.
 
-The navigation menu contains:
+## 🎯 Project Objective
 
-Membership
-Services
-Community
-Resources
-Events
-News & Advocacy
+The objective of this project is to create a professional and visually appealing membership webpage for a writers' organization. The design focuses on presenting membership benefits, author support, community resources, and important navigation options in a clear and engaging way.
 
-Each navigation item takes the user to its corresponding section.
+## 🎨 Design Highlights
 
-📱 Responsive Design
+* Editorial-inspired typography
+* Green and cream color palette
+* Large typography for visual impact
+* Structured navigation
+* Responsive content sections
+* Clean spacing and modern UI elements
+* Professional call-to-action buttons
 
-The website is responsive and can be viewed on:
+## 🔮 Future Enhancements
 
-Desktop
-Laptop
-Tablet
-Mobile devices
+* Functional membership registration
+* User authentication
+* Online membership payment
+* Working search functionality
+* Dynamic membership plans
+* Backend integration
+* Contact and support forms
+* Author/member dashboard
 
-The layout automatically adjusts according to the screen size.
+## 👨‍💻 Author
 
-🚀 How to Run the Project
-Download or clone this repository.
-Open the project folder.
-Open index.html in a web browser.
+Developed as a **Web Development Project** using HTML and CSS.
 
-No additional software or server is required.
+---
 
-📸 Project Preview
-
-Add screenshots of the website here.
-
-![Website Preview](screenshot.png)
-🎯 Project Purpose
-
-The main purpose of this project is to demonstrate the development of a professional and responsive website using basic front-end web technologies.
-
-It also demonstrates navigation, responsive layouts, styling, membership cards, and interactive web design.
-
-👨‍💻 Author
-
-Your Name
-
-📄 License
-
-This project is created for educational and project purposes.
-
-**Idi direct ga `README.md` file lo paste chesi GitHub lo upload cheyyi machi.** ❤️  
-`Your Name` place lo nee name pettesey.
+⭐ If you found this project useful, consider giving the repository a star!
