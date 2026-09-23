@@ -1,3 +1,44 @@
+# The Authors Guild – Membership Website
+
+A responsive and modern membership website developed using HTML, CSS, and JavaScript.  
+The website provides information about membership plans, services, community, resources, events, and news & advocacy.
+
+## 📌 Project Overview
+
+This project is a front-end website inspired by an Authors Guild membership platform.
+
+The website is designed to help writers and authors explore different membership options and access useful services and resources.
+
+## ✨ Features
+
+- Responsive web design
+- Clean and modern user interface
+- Smooth navigation between sections
+- Membership plans
+- Different membership categories
+- Services section
+- Community section
+- Resources section
+- Events section
+- News & Advocacy section
+- Gift Membership section
+- Hover effects and animations
+- Mobile-friendly layout
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📂 Project Structure
+
+```text
+Authors-Guild-Website/
+│
+├── index.html
+├── style.css
+└── README.md
 👥 Membership Categories
 
 The website includes the following membership categories:
@@ -75,44 +116,3 @@ This project is created for educational and project purposes.
 
 **Idi direct ga `README.md` file lo paste chesi GitHub lo upload cheyyi machi.** ❤️  
 `Your Name` place lo nee name pettesey.
-# The Authors Guild – Membership Website
-
-A responsive and modern membership website developed using HTML, CSS, and JavaScript.  
-The website provides information about membership plans, services, community, resources, events, and news & advocacy.
-
-## 📌 Project Overview
-
-This project is a front-end website inspired by an Authors Guild membership platform.
-
-The website is designed to help writers and authors explore different membership options and access useful services and resources.
-
-## ✨ Features
-
-- Responsive web design
-- Clean and modern user interface
-- Smooth navigation between sections
-- Membership plans
-- Different membership categories
-- Services section
-- Community section
-- Resources section
-- Events section
-- News & Advocacy section
-- Gift Membership section
-- Hover effects and animations
-- Mobile-friendly layout
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## 📂 Project Structure
-
-```text
-Authors-Guild-Website/
-│
-├── index.html
-├── style.css
-└── README.md
